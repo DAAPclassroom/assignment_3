@@ -2,9 +2,9 @@
 
 # Assignment 3
 
-## Course: Data Analysis for Astronomy and Physics, summer term 2024
+## Course: Data Analysis for Astronomy and Physics, summer term 2025
 
-## Due date: 28. Mai 2024
+## Due date: 10. Juni 2025
 
 Here is a [tutorial on how to use GitHub and GitHub classroom as a student](https://github.com/jfiksel/github-classroom-for-students/tree/master). You can also check out the following [guide](https://evantilton.com/guides/githubclass/).
 
